@@ -1,0 +1,7 @@
+{
+  "name": "VPN Sub Hub - Global Aggregator",
+  "description": "An automated dashboard for aggregating, classifying, and validating free VPN subscription links (V2Ray/Clash) from public sources using Gemini-powered intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
